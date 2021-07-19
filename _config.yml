@@ -2,7 +2,6 @@ title: Tim Fether
 email: tim@timfether.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.timfether.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: timfether
 repository: timfether/timfether.github.io
 
 # Build settings
